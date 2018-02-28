@@ -1,10 +1,11 @@
-package com.git2;
+package com.git3;
 
-public class Test4 {
+public class Test5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("안녕 세상아아아~~");
+		System.out.println("안녕세계5야");
+
 	}
 
 }
